@@ -14,6 +14,11 @@ software which enables the use of this currency.
 
 This is a hard fork of bitcoin, and it's the next big thing! If you want to be an early adopter and probably make billions, hit me up at dannytenaglias@gmail.com.
 
+Status
+------
+
+Right now I don't have any nodes running, so, if you want to invest, venmo any moneys to my address and eventually i'll give you a wallet address with the coin. 
+
 License
 -------
 
